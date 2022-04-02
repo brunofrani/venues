@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "57900a58498ef0eb7f444e71"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "524aeb0111d2ae4d1b1eea62",
+        "name": "Bluestone Lane Coffee Shop",
+        "contact": {
+          "phone": "6466843771",
+          "formattedPhone": "(646) 684-3771",
+          "twitter": "bluestonelane"
+        },
+        "location": {
+          "address": "30 Broad St",
+          "crossStreet": "at Exchange Pl",
+          "lat": 40.706335523869264,
+          "lng": -74.01186168193817,
+          "distance": 1224,
+          "postalCode": "10004",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "30 Broad St (at Exchange Pl)",
+            "New York, NY 10004",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5722,
+          "usersCount": 1804,
+          "tipCount": 116
+        },
+        "url": "http://www.bluestonelaneny.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/bluestone-lane-coffee-shop/524aeb0111d2ae4d1b1eea62/menu",
+          "mobileUrl": "https://foursquare.com/v/524aeb0111d2ae4d1b1eea62/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1469057624",
+        "venueChains": [
+          {
+            "id": "556e5cf3bd6a82902e298c86"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "49d7b51ff964a520515d1fe3",
+        "name": "Gimme! Coffee",
+        "contact": {
+          "phone": "2122264011",
+          "formattedPhone": "(212) 226-4011",
+          "twitter": "gimmecoffee"
+        },
+        "location": {
+          "address": "228 Mott St",
+          "crossStreet": "btwn Prince & Spring St",
+          "lat": 40.722279576782924,
+          "lng": -73.99517675668822,
+          "distance": 2513,
+          "postalCode": "10012",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "228 Mott St (btwn Prince & Spring St)",
+            "New York, NY 10012",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 22720,
+          "usersCount": 5686,
+          "tipCount": 246
+        },
+        "url": "http://gimmecoffee.com/",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/gimme-coffee/49d7b51ff964a520515d1fe3/menu",
+          "mobileUrl": "https://foursquare.com/v/49d7b51ff964a520515d1fe3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "venuePage": {
+          "id": "54276959"
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1469057624",
+        "venueChains": [
+          {
+            "id": "5594667e498ee2745b80b8f3"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "525eeb3811d2c49bf03e23ec",
+        "name": "Toby's Estate Coffee",
+        "contact": {
+          "phone": "6465590161",
+          "formattedPhone": "(646) 559-0161",
+          "twitter": "tobysbrooklyn"
+        },
+        "location": {
+          "address": "160 5th Ave",
+          "crossStreet": "btwn E 20th & E 21st St",
+          "lat": 40.73995750527805,
+          "lng": -73.99083852767944,
+          "distance": 4514,
+          "postalCode": "10010",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "160 5th Ave (btwn E 20th & E 21st St)",
+            "New York, NY 10010",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 16320,
+          "usersCount": 5484,
+          "tipCount": 184
+        },
+        "url": "http://www.tobysestate.com",
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1469057624",
+        "venueChains": [
+          {
+            "id": "556e59bbbd6a82902e2915e7"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b843a9cf964a520f22831e3",
+        "name": "Blue Bottle Coffee",
+        "contact": {
+          "phone": "7185345488",
+          "formattedPhone": "(718) 534-5488",
+          "twitter": "bluebottlenyc",
+          "facebook": "39439581510",
+          "facebookUsername": "bluebottlecoffee",
+          "facebookName": "Blue Bottle Coffee"
+        },
+        "location": {
+          "address": "160 Berry St",
+          "crossStreet": "btwn N 4th & N 5th St",
+          "lat": 40.71737939220728,
+          "lng": -73.96058320999146,
+          "distance": 3847,
+          "postalCode": "11249",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "160 Berry St (btwn N 4th & N 5th St)",
+            "Brooklyn, NY 11249",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 38444,
+          "usersCount": 13649,
+          "tipCount": 380
+        },
+        "url": "http://bluebottlecoffee.net",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/blue-bottle-coffee/4b843a9cf964a520f22831e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b843a9cf964a520f22831e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "venuePage": {
+          "id": "146272470"
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1469057624",
+        "venueChains": [
+          {
+            "id": "5588c8f2498eb4fced6bebab"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "512f8233e4b04458d4385195",
+        "name": "Stumptown Coffee Roasters",
+        "contact": {
+          "phone": "3474147802",
+          "formattedPhone": "(347) 414-7802",
+          "twitter": "stumptowncoffee"
+        },
+        "location": {
+          "address": "30 W 8th St",
+          "crossStreet": "at MacDougal St",
+          "lat": 40.73281499680155,
+          "lng": -73.99809342556301,
+          "distance": 3656,
+          "postalCode": "10011",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "30 W 8th St (at MacDougal St)",
+            "New York, NY 10011",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 15653,
+          "usersCount": 6708,
+          "tipCount": 253
+        },
+        "url": "http://t.co/HP1jMKlOZf",
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1469057624",
+        "venueChains": [
+          {
+            "id": "556f4246bd6a007c77387d91"
+          }
+        ],
+        "hasPerk": false
+      }
+    ]
+  }
+}

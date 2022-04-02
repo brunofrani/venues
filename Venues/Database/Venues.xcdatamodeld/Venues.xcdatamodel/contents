@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21E230" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ManagedResponse" representedClassName="ManagedResponse" syncable="YES">
+        <attribute name="confident" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <relationship name="venue" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="ManagedVenue" inverseName="response" inverseEntity="ManagedVenue"/>
+        <relationship name="venueList" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ManagedVenueList" inverseName="response" inverseEntity="ManagedVenueList"/>
+    </entity>
+    <entity name="ManagedVenue" representedClassName="ManagedVenue" syncable="YES">
+        <attribute name="allwMenuUrlEdit" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="canonicalName" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <relationship name="response" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ManagedResponse" inverseName="venue" inverseEntity="ManagedResponse"/>
+    </entity>
+    <entity name="ManagedVenueList" representedClassName="ManagedVenueList" syncable="YES">
+        <relationship name="response" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ManagedResponse" inverseName="venueList" inverseEntity="ManagedResponse"/>
+    </entity>
+    <elements>
+        <element name="ManagedVenueList" positionX="-145.5818481445312" positionY="-79.4385986328125" width="128" height="58"/>
+        <element name="ManagedResponse" positionX="-195.8599853515625" positionY="58.38363647460938" width="128" height="88"/>
+        <element name="ManagedVenue" positionX="1.60009765625" positionY="40.71417236328125" width="128" height="118"/>
+    </elements>
+</model>
